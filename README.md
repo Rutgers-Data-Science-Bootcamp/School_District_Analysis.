@@ -5,6 +5,7 @@ Using Pandas library to analyze school district data and showcase trends in scho
 By doing this intensive analysis we are answering following questions:
 1. How is the district summary affected before and after replaced math and reading score of 9th grade from Thomas HighSchool?
 -As you see in the screen shots below, there was no big effect on the district summary:
+
 before: 
 ![Screen Shot 2022-06-27 at 11 23 34 PM](https://user-images.githubusercontent.com/65901034/176085206-b3e5fb79-b47c-4046-be68-5ac69cad8fec.png)
 
@@ -13,6 +14,7 @@ after:
    
 2. 1. How is the school summary affected before and after replaced math and reading score of 9th grade from Thomas HighSchool? 
 -As yous see the the screen shots, there is no big changes on the school summary. Except for Thomas High School performace. 
+
 - Before:
 - ![Screen Shot 2022-06-27 at 11 29 10 PM](https://user-images.githubusercontent.com/65901034/176085842-275d03d9-9226-46a6-9a8c-719b602b4f3c.png)
         
